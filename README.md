@@ -1,5 +1,9 @@
 # Unity URP CRT Shader Effect
 
+| ![With effect](./FX.png) | ![Without effect](./NoFX.png) |
+|:------------------------:|:----------------------------:|
+| With effect             | Without effect               |
+
 ## Disclaimer
 This project is purely for personal study purposes. I am not an expert in shaders, and this is a learning experience for me, so feel free to reach out for any advice.
 
